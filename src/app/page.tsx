@@ -31,7 +31,7 @@ export default function HomePage() {
     <div className="space-y-16">
       <section className="text-center">
         <Image
-          src="/bannerTeste.png"
+          src="/gdg-goiania/bannerTeste.png"
           alt="Banner GDG Goiânia"
           width={2000}
           height={2000}
