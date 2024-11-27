@@ -5,7 +5,7 @@ const staff: Staff[] = [
     id: 1,
     name: "Renan Morais",
     role: "GDG Organizer",
-    photo: "/gdg-goiania/staff/renanMorais.png",
+    photo: "/staff/renanMorais.png",
     social: {
       instagram: "https://www.instagram.com/renan_morais/",
       linkedin: "https://www.linkedin.com/in/renancmorais/",
@@ -17,7 +17,7 @@ const staff: Staff[] = [
     id: 2,
     name: "Erika Conca",
     role: "GDG Organizer",
-    photo: "/gdg-goiania/staff/erikaConca.webp",
+    photo: "/staff/erikaConca.webp",
     social: {
       instagram: "https://www.instagram.com/erikafc_/",
       linkedin: "https://www.linkedin.com/in/erika-conca/",
@@ -29,7 +29,7 @@ const staff: Staff[] = [
     id: 3,
     name: "Wendel Marques",
     role: "GDG Organizer",
-    photo: "/gdg-goiania/staff/wendelMarques.webp",
+    photo: "/staff/wendelMarques.webp",
     social: {
       instagram: "https://www.instagram.com/wwwendel/",
       linkedin: "https://www.linkedin.com/in/wendelmarques/",
@@ -41,7 +41,7 @@ const staff: Staff[] = [
     id: 4,
     name: "Diego Sampaio",
     role: "GDG Organizer",
-    photo: "/gdg-goiania/staff/diegoSampaio.jpeg",
+    photo: "/staff/diegoSampaio.jpeg",
     social: {
       instagram: "https://www.instagram.com/diegosampaioss/",
       linkedin: "https://www.linkedin.com/in/diegossampaio/",
@@ -53,7 +53,7 @@ const staff: Staff[] = [
     id: 5,
     name: "Palloma Lobo",
     role: "GDG Organizer",
-    photo: "/gdg-goiania/staff/pallomaLobo.jpeg",
+    photo: "/staff/pallomaLobo.jpeg",
     social: {
       instagram: "https://www.instagram.com/pallomalobo/",
       linkedin: "https://www.linkedin.com/in/pallomalobo/",
@@ -65,7 +65,7 @@ const staff: Staff[] = [
     id: 6,
     name: "Joyce Beatriz",
     role: "GDG Organizer",
-    photo: "/gdg-goiania/staff/joyceBeatriz.webp",
+    photo: "/staff/joyceBeatriz.webp",
     social: {
       instagram: "https://www.instagram.com/joycebeatriz54/",
       linkedin: "https://www.linkedin.com/in/joycecodes/",
@@ -77,7 +77,7 @@ const staff: Staff[] = [
     id: 7,
     name: "Lays de Freitas",
     role: "GDG Organizer",
-    photo: "/gdg-goiania/staff/laysFreitas.jpeg",
+    photo: "/staff/laysFreitas.jpeg",
     social: {
       instagram: "https://www.instagram.com/laysfreitas.m/",
       linkedin: "https://www.linkedin.com/in/lays-de-freitas-melo-212a2818b/",

@@ -26,12 +26,12 @@ import events from "@/data/events";
 import partners from "@/data/partners";
 import staff from "@/data/staff";
 
-export default function HomePage() {
+export default function Home() {
   return (
     <div className="space-y-16">
       <section className="text-center">
         <Image
-          src="/gdg-goiania/bannerTeste.png"
+          src="/bannerTeste.png"
           alt="Banner GDG Goiânia"
           width={2000}
           height={2000}

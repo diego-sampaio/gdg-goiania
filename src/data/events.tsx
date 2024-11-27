@@ -3,7 +3,7 @@ import { Events } from "@/types";
 const events: Events[] = [
   {
     id: 1,
-    image: "/gdg-goiania/events/devfestCerrado2024.png",
+    image: "/events/devfestCerrado2024.png",
     title: "DevFest Cerrado 10 anos",
     date: { from: "23 de novembro de 2024", to: "23 de novembro de 2024" },
     location: {
@@ -15,7 +15,7 @@ const events: Events[] = [
   },
   {
     id: 2,
-    image: "/gdg-goiania/events/buildWithAI.webp",
+    image: "/events/buildWithAI.webp",
     title: "Build with AI",
     date: { from: "01 de junho de 2024", to: "01 de junho de 2024" },
     location: {
@@ -27,7 +27,7 @@ const events: Events[] = [
   },
   {
     id: 3,
-    image: "/gdg-goiania/events/iwd2024.webp",
+    image: "/events/iwd2024.webp",
     title: "IWD Cerrado",
     date: { from: "27 de abril de 2024", to: "27 de abril de 2024" },
     location: {

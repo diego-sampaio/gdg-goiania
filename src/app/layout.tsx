@@ -24,7 +24,7 @@ export default function RootLayout({
             <div className="flex items-center">
               <Link href="/" className="flex items-center space-x-2">
                 <Image
-                  src="/gdg-goiania/gdgGoiania.png"
+                  src="/gdgGoiania.png"
                   alt="Logo GDG Goiânia"
                   width={200}
                   height={200}
