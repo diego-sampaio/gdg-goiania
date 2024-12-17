@@ -31,10 +31,11 @@ export default function Home() {
     <div className="space-y-16">
       <section className="text-center">
         <Image
-          src="/bannerTeste.png"
+          src="/bannerGDGGoiania.png"
           alt="Banner GDG Goiânia"
           width={2000}
           height={2000}
+          className="rounded-lg"
         />
       </section>
 

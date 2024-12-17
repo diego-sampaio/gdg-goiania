@@ -1,7 +1,7 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Image from "next/image";
 import Link from "next/link";
+import Image from "next/image";
 import { Linkedin, Instagram, Youtube } from "lucide-react";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="pt-BR">
       <body className={inter.className}>
         <header className="bg-secondary text-secondary-foreground">
           <div className="container mx-auto px-4 py-4 flex justify-between items-center">
@@ -28,8 +28,7 @@ export default function RootLayout({
                   alt="Logo GDG Goiânia"
                   width={200}
                   height={200}
-                />{" "}
-                {/* não estilizar o width aqui, foi somente para ver em tela */}
+                />
               </Link>
             </div>
             <nav>

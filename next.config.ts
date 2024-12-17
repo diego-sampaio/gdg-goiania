@@ -1,12 +1,10 @@
-/**
- * @type {import('next').NextConfig}
- */
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // generate static files for GitHub Pages
-  basePath: process.env.NODE_ENV === 'production' ? '/gdg-goiania' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/gdg-goiania/' : '',
+  output: "export",
+  basePath: process.env.NODE_ENV === 'production' ? '' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '' : '',
   images: {
-    unoptimized: true, // avoid image optimization
+    unoptimized: true,
   },
 };
 
